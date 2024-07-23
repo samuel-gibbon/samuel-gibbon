@@ -1,9 +1,3 @@
-## Hi there 👋
-
-## Overview
-
----
-
 I'm a UK Research & Innovation funded PhD student in Clinical Brain Science at the University of Edinburgh.
 
 My research focuses on the development of deep learning models for the analysis of retinal imaging data. I am particularly interested in the application of these models to the study of neurodegenerative diseases, such as Parkinson's, small vessel disease, and stroke.
